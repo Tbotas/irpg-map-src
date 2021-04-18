@@ -1,0 +1,23 @@
+{
+  "name": "inflationrpgmap",
+  "version": "1.0.0",
+  "description": "",
+  "main": "webpack.config.js",
+  "dependencies": {
+    "fabric": "^4.3.0",
+    "ts-loader": "^8.0.13",
+    "typescript": "^3.9.7"
+  },
+  "devDependencies": {
+    "@types/fabric": "^4.2.1",
+    "tslint": "^5.12.1",
+    "webpack": "^5.11.1",
+    "webpack-cli": "^4.3.1"
+  },
+  "scripts": {
+    "build": "webpack --config webpack.config.js --mode=development",
+    "build-prod": "webpack --config webpack.config.js --mode=production"
+  },
+  "author": "",
+  "license": "ISC"
+}

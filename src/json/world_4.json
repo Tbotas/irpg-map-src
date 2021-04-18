@@ -1,0 +1,190 @@
+{
+    "index": 3,
+    "mapName": "3",
+    "regions": [
+      {
+        "index": 0,
+        "mapIndex": 0,
+        "imageOffset": {
+          "top": 0,
+          "left": 0
+        },
+        "imageSize": {
+          "width": 800,
+          "height": 2240
+        },
+        "areas": [
+          {
+            "index": 0,
+            "level": 28800,
+            "xpMulti": 420,
+            "position": {
+              "left": 80,
+              "top": 44.800000000000004
+            },
+            "path": [
+              {
+                "x": 790,
+                "y": 11.2
+              },
+              {
+                "x": 790,
+                "y": 11.2
+              },
+              {
+                "x": 790,
+                "y": 436.8
+              },
+              {
+                "x": 10,
+                "y": 436.8
+              },
+              {
+                "x": 10,
+                "y": 11.2
+              }
+            ],
+            "grouped": false,
+            "group": [],
+            "groupPositions": []
+          },
+          {
+            "index": 1,
+            "level": 30000,
+            "xpMulti": 390,
+            "position": {
+              "left": 80,
+              "top": 134.4
+            },
+            "path": [
+              {
+                "x": 790,
+                "y": 459.2
+              },
+              {
+                "x": 790,
+                "y": 459.2
+              },
+              {
+                "x": 790,
+                "y": 884.8
+              },
+              {
+                "x": 10,
+                "y": 884.8
+              },
+              {
+                "x": 10,
+                "y": 459.2
+              }
+            ],
+            "grouped": false,
+            "group": [],
+            "groupPositions": []
+          },
+          {
+            "index": 2,
+            "level": 33333,
+            "xpMulti": 400,
+            "position": {
+              "left": 80,
+              "top": 224
+            },
+            "path": [
+              {
+                "x": 790,
+                "y": 907.2
+              },
+              {
+                "x": 790,
+                "y": 907.2
+              },
+              {
+                "x": 790,
+                "y": 1332.8
+              },
+              {
+                "x": 10,
+                "y": 1332.8
+              },
+              {
+                "x": 10,
+                "y": 907.2
+              }
+            ],
+            "grouped": false,
+            "group": [],
+            "groupPositions": []
+          },
+          {
+            "index": 3,
+            "level": 34500,
+            "xpMulti": 480,
+            "position": {
+              "left": 80,
+              "top": 313.6
+            },
+            "path": [
+              {
+                "x": 790,
+                "y": 1355.2
+              },
+              {
+                "x": 790,
+                "y": 1355.2
+              },
+              {
+                "x": 790,
+                "y": 1780.8
+              },
+              {
+                "x": 10,
+                "y": 1780.8
+              },
+              {
+                "x": 10,
+                "y": 1355.2
+              }
+            ],
+            "grouped": false,
+            "group": [],
+            "groupPositions": []
+          },
+          {
+            "index": 4,
+            "level": 36000,
+            "xpMulti": 450,
+            "position": {
+              "left": 80,
+              "top": 403.20000000000005
+            },
+            "path": [
+              {
+                "x": 790,
+                "y": 1803.2
+              },
+              {
+                "x": 790,
+                "y": 1803.2
+              },
+              {
+                "x": 790,
+                "y": 2228.8
+              },
+              {
+                "x": 10,
+                "y": 2228.8
+              },
+              {
+                "x": 10,
+                "y": 1803.2
+              }
+            ],
+            "grouped": false,
+            "group": [],
+            "groupPositions": []
+          }
+        ]
+      }
+    ]
+  }

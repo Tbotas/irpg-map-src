@@ -1,0 +1,181 @@
+* { margin:0; padding:0; }
+
+html, body {
+    width:100%; 
+    height:100%;
+    overflow: hidden;
+}
+
+#menu {
+    position: absolute;
+    top: 0;
+    right: 0;
+    margin-right: 5px;
+    width: 33%;
+    height: 100%;
+    color: white;
+    overflow-x: hidden;
+}
+
+#menu::-webkit-scrollbar { width: 0 !important }
+
+#menu { overflow: -moz-scrollbars-none; }
+#menu { -ms-overflow-style: none; }
+
+.list {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.list li {
+    display: block;
+    flex: 0 1 auto;
+    margin-bottom: 5px;
+    list-style: none;
+    border:1px red solid;
+    border-radius: 10px;
+}
+
+.area-info {
+    padding: 9px;
+}
+
+.area-info p {
+    padding: 1px;
+}
+
+.enemy-info-flex {
+    display: flex;
+}
+
+.enemy-info-flex div {
+    margin: 5px;
+    margin-bottom: 0;
+}
+
+.enemy-info-img {
+    flex: 1;
+}
+
+.enemy-img {
+    width: 100%;
+    max-width: 160px;
+    height: 160px;
+    max-height: 160px;
+}
+
+.enemy-info-text {
+    flex: 3;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+
+.enemy-info-text * {
+    flex: 1;
+}
+
+.enemy-boss {
+    border-color: yellow !important;
+}
+
+.hide-button {
+    display: block;
+    width: 100%;
+    height: 15px;
+    padding: 0 5px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    color: white;
+    background-color: rgb(40,40,40);
+    border: none;
+    outline: none;
+}
+
+.hide-button:hover {
+    background-color: gray;
+}
+
+.drops-table {
+    width: 100%;
+    table-layout: fixed;
+    white-space: nowrap;
+    margin: 2px;
+}
+
+.drops-table th {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    width: 10%;
+    text-align: center;
+}
+
+.drops-table td {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    width: 10%;
+    text-align: center;
+}
+
+.drops-table img {
+    vertical-align: middle;
+}
+
+.hidden {
+    display: none;
+}
+
+.settings {
+    padding: 9px;
+}
+
+.settings p {
+    padding: 2px;
+}
+
+.settings input {
+    background-color: transparent;
+    border-color: white;
+    color: white;
+    float: right;
+    margin-right: 0;
+}
+
+#menuList {
+    background-color: rgb(0, 0, 0, 0.7);
+}
+
+#world-options {
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+#world-select {
+    display: block;
+    background-color: black;
+    color: white;
+    border: black;
+    outline: none
+}
+
+.reset-button {
+    float: right;
+    color: black;
+    outline: none;
+    margin: 5px;
+    margin-right: 20px;
+}
+
+#hardmode-checkbox {
+    margin: 5px;
+    margin-top: 10px;
+}
+
+label[for=hardmode-checkbox] {
+    color: white
+}

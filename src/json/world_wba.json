@@ -1,0 +1,50 @@
+{
+  "index": -2,
+  "mapName": "wba",
+  "regions": [
+    {
+      "imageOffset": {
+        "top": 0,
+        "left": 0
+      },
+      "imageSize": {
+        "width": 800,
+        "height": 800
+      },
+      "areas": [
+        {
+          "index": 0,
+          "level": 0,
+          "xpMulti": -2,
+          "position": {
+            "left": 80,
+            "top": 80
+          },
+          "path": [
+            {
+              "x": 40,
+              "y": 760
+            },
+            {
+              "x": 40,
+              "y": 40
+            },
+            {
+              "x": 760,
+              "y": 40
+            },
+            {
+              "x": 760,
+              "y": 760
+            }
+          ],
+          "grouped": false,
+          "group": [],
+          "groupPositions": []
+        }
+      ],
+      "index": 0,
+      "mapIndex": 0
+    }
+  ]
+}

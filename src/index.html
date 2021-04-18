@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Inflation RPG Map</title>
+    <link href="./css/main.css" rel="stylesheet">
+    <script src="./scripts/lib/fabric.min.js"></script>
+</head>
+<body>
+    <canvas id="canvas"></canvas>
+    
+    <div id="world-options">
+        <select name="world-select" id="world-select">
+            <option value="world_1">World 1</option>
+            <option value="world_2">World 2</option>
+            <option value="world_3">World 3 - The Maze</option>
+            <option value="world_4">World 4 - Maze Escape</option>
+            <option value="world_5">World 5 - Chaos Grid</option>
+            <option value="world_6">World 6 - Crystal Map</option>
+            <option value="world_7">World 7 - Heaven</option>
+            <option value="world_8">World 8 - Stairway</option>
+            <option value="world_9">World 9 - Twilight Zone</option>
+            <option value="world_bba">Black Bonus Area</option>
+            <option value="world_wba">White Bonus Area</option>
+        </select>
+        <input type="checkbox" id="hardmode-checkbox">
+        <label for="hardmode-checkbox">Hardmode</label>
+    </div>
+    
+
+    <div id="menu" class="hidden">
+        <ul id ="menuList" class="list">
+            <li>
+                <button onclick="buttonDropClicked(this)" class="hide-button">▼</button>
+                <div class="settings hidden">
+                    <p>Fill type:
+                        <select name="fill-type-select" id="fill-type-select">
+                            <option value="transparent">Transparent</option>
+                            <option value="region-exp">Region EXP</option>
+                            <option value="region-gold">Region gold</option>
+                            <option value="world-exp">World EXP</option >
+                            <option value="world-gold">World gold</option>
+                        </select>
+                    </p>
+                </div>
+            </li>
+        </ul>
+    </div>
+    <script src="./scripts/bundle.js"></script>
+    <script>
+        function buttonDropClicked(button) {
+            if (button.nextElementSibling.classList.contains("hidden")) {
+                button.nextElementSibling.classList.remove("hidden")
+                button.innerText = "▲"
+            } else {
+                button.nextElementSibling.classList.add("hidden")
+                button.innerText = "▼"
+            }
+        }
+
+        function resetSettings() {
+            for (id of ["hp", "atk", "def", "luc"]) {
+                document.getElementById("player_" + id).value = ""
+            }
+        }
+    </script>
+</body>
+</html>

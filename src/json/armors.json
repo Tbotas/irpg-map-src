@@ -1,0 +1,247 @@
+[
+    {
+        "id": 0,
+        "name": "Leather Armor",
+        "base": 5,
+        "percentIncrease": 100,
+        "isHardMode": false
+    },
+    {
+        "id": 1,
+        "name": "Iron Armor",
+        "base": 40,
+        "percentIncrease": 110,
+        "isHardMode": false
+    },
+    {
+        "id": 2,
+        "name": "Bronze Armor",
+        "base": 200,
+        "percentIncrease": 125,
+        "isHardMode": false
+    },
+    {
+        "id": 3,
+        "name": "Steel Armor",
+        "base": 550,
+        "percentIncrease": 140,
+        "isHardMode": false
+    },
+    {
+        "id": 4,
+        "name": "Scale Armor",
+        "base": 880,
+        "percentIncrease": 145,
+        "isHardMode": false
+    },
+    {
+        "id": 5,
+        "name": "Spike Armor",
+        "base": 920,
+        "percentIncrease": 160,
+        "isHardMode": false
+    },
+    {
+        "id": 22,
+        "name": "Spike Armor+1",
+        "base": 12000,
+        "percentIncrease": 310,
+        "isHardMode": true
+    },
+    {
+        "id": 6,
+        "name": "Magic Armor",
+        "base": 5,
+        "percentIncrease": 280,
+        "isHardMode": false
+    },
+    {
+        "id": 23,
+        "name": "Magic Armor+1",
+        "base": 100,
+        "percentIncrease": 360,
+        "isHardMode": true
+    },
+    {
+        "id": 7,
+        "name": "Half Plate Armor",
+        "base": 700,
+        "percentIncrease": 210,
+        "isHardMode": false
+    },
+    {
+        "id": 8,
+        "name": "Silver Armor",
+        "base": 700,
+        "percentIncrease": 250,
+        "isHardMode": false
+    },
+    {
+        "id": 9,
+        "name": "Samurai Armor",
+        "base": 1400,
+        "percentIncrease": 240,
+        "isHardMode": false
+    },
+    {
+        "id": 33,
+        "name": "Samurai Armor+1",
+        "base": 70000,
+        "percentIncrease": 320,
+        "isHardMode": true
+    },
+    {
+        "id": 10,
+        "name": "Dark Armor",
+        "base": 800,
+        "percentIncrease": 235,
+        "isHardMode": false
+    },
+    {
+        "id": 11,
+        "name": "Rare Armor",
+        "base": 50,
+        "percentIncrease": 320,
+        "isHardMode": false
+    },
+    {
+        "id": 12,
+        "name": "Knight Armor",
+        "base": 800,
+        "percentIncrease": 280,
+        "isHardMode": false
+    },
+    {
+        "id": 32,
+        "name": "Knight Armor+1",
+        "base": 50000,
+        "percentIncrease": 370,
+        "isHardMode": true
+    },
+    {
+        "id": 17,
+        "name": "Full Plate Armor",
+        "base": 5000,
+        "percentIncrease": 260,
+        "isHardMode": false
+    },
+    {
+        "id": 31,
+        "name": "Full Plate Armor+1",
+        "base": 100000,
+        "percentIncrease": 350,
+        "isHardMode": true
+    },
+    {
+        "id": 13,
+        "name": "Hard Armor",
+        "base": 5000,
+        "percentIncrease": 230,
+        "isHardMode": false
+    },
+    {
+        "id": 14,
+        "name": "Gold Armor",
+        "base": 2500,
+        "percentIncrease": 320,
+        "isHardMode": false
+    },
+    {
+        "id": 18,
+        "name": "Light Armor",
+        "base": 0,
+        "percentIncrease": 340,
+        "isHardMode": false
+    },
+    {
+        "id": 24,
+        "name": "Light Armor+1",
+        "base": 0,
+        "percentIncrease": 470,
+        "isHardMode": true
+    },
+    {
+        "id": 19,
+        "name": "Crystal Cape",
+        "base": 8000,
+        "percentIncrease": 290,
+        "isHardMode": false
+    },
+    {
+        "id": 30,
+        "name": "Crystal Cape+1",
+        "base": 20000,
+        "percentIncrease": 420,
+        "isHardMode": true
+    },
+    {
+        "id": 20,
+        "name": "Four Gods/White Armor",
+        "base": 12000,
+        "percentIncrease": 350,
+        "isHardMode": false
+    },
+    {
+        "id": 25,
+        "name": "Four Gods/White Armor+1",
+        "base": 50000,
+        "percentIncrease": 480,
+        "isHardMode": true
+    },
+    {
+        "id": 21,
+        "name": "Four Gods/Black Armor",
+        "base": 75000,
+        "percentIncrease": 250,
+        "isHardMode": false
+    },
+    {
+        "id": 26,
+        "name": "Four Gods/Black Armor+1",
+        "base": 400000,
+        "percentIncrease": 340,
+        "isHardMode": true
+    },
+    {
+        "id": 34,
+        "name": "Wing Armor",
+        "base": 30000,
+        "percentIncrease": 360,
+        "isHardMode": false
+    },
+    {
+        "id": 35,
+        "name": "Wing Armor+1",
+        "base": 100000,
+        "percentIncrease": 520,
+        "isHardMode": true
+    },
+    {
+        "id": 15,
+        "name": "Megin Gjord/Cursed Armor",
+        "base": 2000,
+        "percentIncrease": 300,
+        "isHardMode": false
+    },
+    {
+        "id": 27,
+        "name": "Megin Gjord/Cursed Armor+1",
+        "base": 10000,
+        "percentIncrease": 440,
+        "isHardMode": true
+    },
+    {
+        "id": 16,
+        "name": "Aegis/Holy Armor",
+        "base": 5000,
+        "percentIncrease": 340,
+        "isHardMode": false
+    },
+    {
+        "id": 28,
+        "name": "Aegis/Holy Armor+1",
+        "base": 80000,
+        "percentIncrease": 520,
+        "isHardMode": true
+    }
+]

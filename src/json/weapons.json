@@ -1,0 +1,569 @@
+[
+    {
+        "id": 0,
+        "name": "Dagger",
+        "base": 5,
+        "percentIncrease": 100,
+        "isHardMode": false
+    },
+    {
+        "id": 1,
+        "name": "Bowie Knife",
+        "base": 30,
+        "percentIncrease": 110,
+        "isHardMode": false
+    },
+    {
+        "id": 2,
+        "name": "Kukri Knife",
+        "base": 30,
+        "percentIncrease": 135,
+        "isHardMode": false
+    },
+    {
+        "id": 75,
+        "name": "Kukri Knife+1",
+        "base": 3000,
+        "percentIncrease": 350,
+        "isHardMode": true
+    },
+    {
+        "id": 3,
+        "name": "Iron Sword",
+        "base": 140,
+        "percentIncrease": 125,
+        "isHardMode": false
+    },
+    {
+        "id": 4,
+        "name": "Bronze Sword",
+        "base": 400,
+        "percentIncrease": 130,
+        "isHardMode": false
+    },
+    {
+        "id": 5,
+        "name": "Iron Axe",
+        "base": 1400,
+        "percentIncrease": 135,
+        "isHardMode": false
+    },
+    {
+        "id": 6,
+        "name": "Steel Sword",
+        "base": 800,
+        "percentIncrease": 160,
+        "isHardMode": false
+    },
+    {
+        "id": 7,
+        "name": "Steel Axe",
+        "base": 3000,
+        "percentIncrease": 140,
+        "isHardMode": false
+    },
+    {
+        "id": 78,
+        "name": "Steel Axe+1",
+        "base": 90000,
+        "percentIncrease": 300,
+        "isHardMode": true
+    },
+    {
+        "id": 8,
+        "name": "Broadsword",
+        "base": 1200,
+        "percentIncrease": 300,
+        "isHardMode": false
+    },
+    {
+        "id": 9,
+        "name": "Francisca",
+        "base": 2300,
+        "percentIncrease": 175,
+        "isHardMode": false
+    },
+    {
+        "id": 10,
+        "name": "Scimitar",
+        "base": 1100,
+        "percentIncrease": 225,
+        "isHardMode": false
+    },
+    {
+        "id": 58,
+        "name": "Scimitar+1",
+        "base": 12000,
+        "percentIncrease": 360,
+        "isHardMode": true
+    },
+    {
+        "id": 11,
+        "name": "Battle Axe",
+        "base": 5000,
+        "percentIncrease": 145,
+        "isHardMode": false
+    },
+    {
+        "id": 12,
+        "name": "Glaive",
+        "base": 2700,
+        "percentIncrease": 1800,
+        "isHardMode": false
+    },
+    {
+        "id": 13,
+        "name": "Trident",
+        "base": 1800,
+        "percentIncrease": 230,
+        "isHardMode": false
+    },
+    {
+        "id": 77,
+        "name": "Trident+1",
+        "base": 8000,
+        "percentIncrease": 380,
+        "isHardMode": true
+    },
+    {
+        "id": 14,
+        "name": "Wind Sword",
+        "base": 1000,
+        "percentIncrease": 250,
+        "isHardMode": false
+    },
+    {
+        "id": 40,
+        "name": "Wind Sword+1",
+        "base": 1400,
+        "percentIncrease": 270,
+        "isHardMode": false
+    },
+    {
+        "id": 70,
+        "name": "Wind Sword+2",
+        "base": 40000,
+        "percentIncrease": 380,
+        "isHardMode": true
+    },
+    {
+        "id": 15,
+        "name": "Fire Sword",
+        "base": 2000,
+        "percentIncrease": 220,
+        "isHardMode": false
+    },
+    {
+        "id": 41,
+        "name": "Fire Sword+1",
+        "base": 2800,
+        "percentIncrease": 240,
+        "isHardMode": false
+    },
+    {
+        "id": 71,
+        "name": "Fire Sword+2",
+        "base": 100000,
+        "percentIncrease": 360,
+        "isHardMode": true
+    },
+    {
+        "id": 16,
+        "name": "Ice Sword",
+        "base": 600,
+        "percentIncrease": 270,
+        "isHardMode": false
+    },
+    {
+        "id": 42,
+        "name": "Ice Sword+1",
+        "base": 800,
+        "percentIncrease": 290,
+        "isHardMode": false
+    },
+    {
+        "id": 72,
+        "name": "Ice Sword+2",
+        "base": 10000,
+        "percentIncrease": 400,
+        "isHardMode": true
+    },
+    {
+        "id": 17,
+        "name": "Thunder Sword",
+        "base": 150,
+        "percentIncrease": 290,
+        "isHardMode": false
+    },
+    {
+        "id": 43,
+        "name": "Thunder Sword+1",
+        "base": 200,
+        "percentIncrease": 310,
+        "isHardMode": false
+    },
+    {
+        "id": 73,
+        "name": "Thunder Sword+2",
+        "base": 2000,
+        "percentIncrease": 440,
+        "isHardMode": true
+    },
+    {
+        "id": 18,
+        "name": "Silver Sword",
+        "base": 1700,
+        "percentIncrease": 260,
+        "isHardMode": false
+    },
+    {
+        "id": 19,
+        "name": "Silver Spear",
+        "base": 1600,
+        "percentIncrease": 280,
+        "isHardMode": false
+    },
+    {
+        "id": 20,
+        "name": "Samurai Sword",
+        "base": 5000,
+        "percentIncrease": 225,
+        "isHardMode": false
+    },
+    {
+        "id": 76,
+        "name": "Samurai Sword+1",
+        "base": 120000,
+        "percentIncrease": 350,
+        "isHardMode": true
+    },
+    {
+        "id": 21,
+        "name": "Dark Sword",
+        "base": 2000,
+        "percentIncrease": 260,
+        "isHardMode": false
+    },
+    {
+        "id": 22,
+        "name": "Dark Scythe",
+        "base": 9000,
+        "percentIncrease": 140,
+        "isHardMode": false
+    },
+    {
+        "id": 23,
+        "name": "Rare Sword",
+        "base": 500,
+        "percentIncrease": 290,
+        "isHardMode": false
+    },
+    {
+        "id": 24,
+        "name": "Rare Gladius",
+        "base": 50,
+        "percentIncrease": 330,
+        "isHardMode": false
+    },
+    {
+        "id": 25,
+        "name": "Knight Sword",
+        "base": 1600,
+        "percentIncrease": 290,
+        "isHardMode": false
+    },
+    {
+        "id": 26,
+        "name": "Knight Rapier",
+        "base": 250,
+        "percentIncrease": 340,
+        "isHardMode": false
+    },
+    {
+        "id": 55,
+        "name": "Knight Rapier+1",
+        "base": 5000,
+        "percentIncrease": 460,
+        "isHardMode": true
+    },
+    {
+        "id": 27,
+        "name": "Knight Spear",
+        "base": 3500,
+        "percentIncrease": 280,
+        "isHardMode": false
+    },
+    {
+        "id": 44,
+        "name": "Tomahawk",
+        "base": 35000,
+        "percentIncrease": 110,
+        "isHardMode": false
+    },
+    {
+        "id": 45,
+        "name": "Samurai Longsword",
+        "base": 12000,
+        "percentIncrease": 225,
+        "isHardMode": false
+    },
+    {
+        "id": 46,
+        "name": "Estoc",
+        "base": 0,
+        "percentIncrease": 350,
+        "isHardMode": false
+    },
+    {
+        "id": 50,
+        "name": "Estoc+1",
+        "base": 0,
+        "percentIncrease": 380,
+        "isHardMode": false
+    },
+    {
+        "id": 57,
+        "name": "Estoc+2",
+        "base": 0,
+        "percentIncrease": 520,
+        "isHardMode": true
+    },
+    {
+        "id": 47,
+        "name": "Mace",
+        "base": 8000,
+        "percentIncrease": 250,
+        "isHardMode": false
+    },
+    {
+        "id": 28,
+        "name": "Hard Sword",
+        "base": 3000,
+        "percentIncrease": 300,
+        "isHardMode": false
+    },
+    {
+        "id": 29,
+        "name": "Hard Axe",
+        "base": 10000,
+        "percentIncrease": 230,
+        "isHardMode": false
+    },
+    {
+        "id": 30,
+        "name": "Hard Lance",
+        "base": 5000,
+        "percentIncrease": 280,
+        "isHardMode": false
+    },
+    {
+        "id": 31,
+        "name": "Gold Sword",
+        "base": 5000,
+        "percentIncrease": 340,
+        "isHardMode": false
+    },
+    {
+        "id": 32,
+        "name": "Gold Axe",
+        "base": 25000,
+        "percentIncrease": 230,
+        "isHardMode": false
+    },
+    {
+        "id": 48,
+        "name": "Green Light Sword",
+        "base": 3000,
+        "percentIncrease": 370,
+        "isHardMode": false
+    },
+    {
+        "id": 59,
+        "name": "Green Light Sword+1",
+        "base": 20000,
+        "percentIncrease": 530,
+        "isHardMode": true
+    },
+    {
+        "id": 49,
+        "name": "Red Light Sword",
+        "base": 14000,
+        "percentIncrease": 320,
+        "isHardMode": false
+    },
+    {
+        "id": 60,
+        "name": "Red Light Sword+1",
+        "base": 140000,
+        "percentIncrease": 470,
+        "isHardMode": true
+    },
+    {
+        "id": 51,
+        "name": "Crystal Hammer",
+        "base": 20000,
+        "percentIncrease": 290,
+        "isHardMode": false
+    },
+    {
+        "id": 54,
+        "name": "Crystal Lance",
+        "base": 10000,
+        "percentIncrease": 360,
+        "isHardMode": false
+    },
+    {
+        "id": 56,
+        "name": "Crystal Lance+1",
+        "base": 40000,
+        "percentIncrease": 490,
+        "isHardMode": true
+    },
+    {
+        "id": 52,
+        "name": "Four Gods/Red Lance",
+        "base": 25000,
+        "percentIncrease": 380,
+        "isHardMode": false
+    },
+    {
+        "id": 61,
+        "name": "Four Gods/Red Lance+1",
+        "base": 125000,
+        "percentIncrease": 510,
+        "isHardMode": true
+    },
+    {
+        "id": 53,
+        "name": "Four Gods/Blue Sword",
+        "base": 100,
+        "percentIncrease": 420,
+        "isHardMode": false
+    },
+    {
+        "id": 62,
+        "name": "Four Gods/Blue Sword+1",
+        "base": 1000,
+        "percentIncrease": 620,
+        "isHardMode": true
+    },
+    {
+        "id": 79,
+        "name": "Wing Lance",
+        "base": 20000,
+        "percentIncrease": 380,
+        "isHardMode": false
+    },
+    {
+        "id": 80,
+        "name": "Wing Sword",
+        "base": 30000,
+        "percentIncrease": 410,
+        "isHardMode": false
+    },
+    {
+        "id": 81,
+        "name": "Wing Sword+1",
+        "base": 30000,
+        "percentIncrease": 660,
+        "isHardMode": true
+    },
+    {
+        "id": 33,
+        "name": "Lvateinn/Gursed Sword",
+        "base": 1500,
+        "percentIncrease": 305,
+        "isHardMode": false
+    },
+    {
+        "id": 63,
+        "name": "Lvateinn/Gursed Sword+1",
+        "base": 15000,
+        "percentIncrease": 470,
+        "isHardMode": true
+    },
+    {
+        "id": 34,
+        "name": "Kujang/Cursed Dagger",
+        "base": 60,
+        "percentIncrease": 350,
+        "isHardMode": false
+    },
+    {
+        "id": 64,
+        "name": "Kujang/Cursed Dagger+1",
+        "base": 600,
+        "percentIncrease": 520,
+        "isHardMode": true
+    },
+    {
+        "id": 35,
+        "name": "Durandal/Cursed Axe",
+        "base": 20000,
+        "percentIncrease": 200,
+        "isHardMode": false
+    },
+    {
+        "id": 65,
+        "name": "Durandal/Cursed Axe+1",
+        "base": 200000,
+        "percentIncrease": 370,
+        "isHardMode": true
+    },
+    {
+        "id": 36,
+        "name": "GaeBolg/Cursed Lance",
+        "base": 5000,
+        "percentIncrease": 290,
+        "isHardMode": false
+    },
+    {
+        "id": 66,
+        "name": "GaeBolg/Cursed Lance+1",
+        "base": 50000,
+        "percentIncrease": 450,
+        "isHardMode": true
+    },
+    {
+        "id": 37,
+        "name": "Excalibur/Holy Sword",
+        "base": 10000,
+        "percentIncrease": 330,
+        "isHardMode": false
+    },
+    {
+        "id": 67,
+        "name": "Excalibur/Holy Sword+1",
+        "base": 50000,
+        "percentIncrease": 580,
+        "isHardMode": true
+    },
+    {
+        "id": 38,
+        "name": "Swanchika/Holy Axe",
+        "base": 30000,
+        "percentIncrease": 200,
+        "isHardMode": false
+    },
+    {
+        "id": 68,
+        "name": "Swanchika/Holy Axe+1",
+        "base": 250000,
+        "percentIncrease": 410,
+        "isHardMode": true
+    },
+    {
+        "id": 39,
+        "name": "Longinus/Holy Lance",
+        "base": 3000,
+        "percentIncrease": 390,
+        "isHardMode": false
+    },
+    {
+        "id": 69,
+        "name": "Longinus/Holy Lance+1",
+        "base": 5000,
+        "percentIncrease": 640,
+        "isHardMode": true
+    }
+]

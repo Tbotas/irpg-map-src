@@ -1,0 +1,50 @@
+{
+    "index": 5,
+    "mapName": "5",
+    "regions": [
+      {
+        "index": 0,
+        "mapIndex": 0,
+        "imageOffset": {
+          "top": 0,
+          "left": 0
+        },
+        "imageSize": {
+          "width": 1600,
+          "height": 1600
+        },
+        "areas": [
+          {
+            "index": 0,
+            "level": 41111,
+            "xpMulti": 800,
+            "position": {
+              "left": 160,
+              "top": 160
+            },
+            "path": [
+              {
+                "x": 20,
+                "y": 20
+              },
+              {
+                "x": 1580,
+                "y": 20
+              },
+              {
+                "x": 1580,
+                "y": 1580
+              },
+              {
+                "x": 20,
+                "y": 1580
+              }
+            ],
+            "grouped": false,
+            "group": [],
+            "groupPositions": []
+          }
+        ]
+      }
+    ]
+  }

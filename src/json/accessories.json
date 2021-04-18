@@ -1,0 +1,332 @@
+[
+    {
+        "id": 0,
+        "name": "HP Gem",
+        "isHardMode": false
+    },
+    {
+        "id": 1,
+        "name": "HP Gem+1",
+        "isHardMode": false
+    },
+    {
+        "id": 2,
+        "name": "HP Gem+2",
+        "isHardMode": false
+    },
+    {
+        "id": 3,
+        "name": "HP Gem+3",
+        "isHardMode": false
+    },
+    {
+        "id": 39,
+        "name": "HP Gem+4",
+        "isHardMode": false
+    },
+    {
+        "id": 46,
+        "name": "HP Gem+5",
+        "isHardMode": false
+    },
+    {
+        "id": 4,
+        "name": "ATK Gem",
+        "isHardMode": false
+    },
+    {
+        "id": 5,
+        "name": "ATK Gem+1",
+        "isHardMode": false
+    },
+    {
+        "id": 6,
+        "name": "ATK Gem+2",
+        "isHardMode": false
+    },
+    {
+        "id": 7,
+        "name": "ATK Gem+3",
+        "isHardMode": false
+    },
+    {
+        "id": 40,
+        "name": "ATK Gem+4",
+        "isHardMode": false
+    },
+    {
+        "id": 47,
+        "name": "ATK Gem+5",
+        "isHardMode": false
+    },
+    {
+        "id": 8,
+        "name": "DEF Gem",
+        "isHardMode": false
+    },
+    {
+        "id": 9,
+        "name": "DEF Gem+1",
+        "isHardMode": false
+    },
+    {
+        "id": 10,
+        "name": "DEF Gem+2",
+        "isHardMode": false
+    },
+    {
+        "id": 11,
+        "name": "DEF Gem+3",
+        "isHardMode": false
+    },
+    {
+        "id": 41,
+        "name": "DEF Gem+4",
+        "isHardMode": false
+    },
+    {
+        "id": 48,
+        "name": "DEF Gem+5",
+        "isHardMode": false
+    },
+    {
+        "id": 12,
+        "name": "AGI Gem",
+        "isHardMode": false
+    },
+    {
+        "id": 13,
+        "name": "AGI Gem+1",
+        "isHardMode": false
+    },
+    {
+        "id": 14,
+        "name": "AGI Gem+2",
+        "isHardMode": false
+    },
+    {
+        "id": 15,
+        "name": "AGI Gem+3",
+        "isHardMode": false
+    },
+    {
+        "id": 42,
+        "name": "AGI Gem+4",
+        "isHardMode": false
+    },
+    {
+        "id": 49,
+        "name": "AGI Gem+5",
+        "isHardMode": false
+    },
+    {
+        "id": 16,
+        "name": "LUC Gem",
+        "isHardMode": false
+    },
+    {
+        "id": 17,
+        "name": "LUC Gem+1",
+        "isHardMode": false
+    },
+    {
+        "id": 18,
+        "name": "LUC Gem+2",
+        "isHardMode": false
+    },
+    {
+        "id": 19,
+        "name": "LUC Gem+3",
+        "isHardMode": false
+    },
+    {
+        "id": 43,
+        "name": "LUC Gem+4",
+        "isHardMode": false
+    },
+    {
+        "id": 50,
+        "name": "LUC Gem+5",
+        "isHardMode": false
+    },
+    {
+        "id": 44,
+        "name": "Play Gem",
+        "isHardMode": false
+    },
+    {
+        "id": 45,
+        "name": "Play Gem+1",
+        "isHardMode": false
+    },
+    {
+        "id": 51,
+        "name": "Play Gem+2",
+        "isHardMode": false
+    },
+    {
+        "id": 20,
+        "name": "EXP Gem",
+        "isHardMode": false
+    },
+    {
+        "id": 21,
+        "name": "EXP Gem+1",
+        "isHardMode": false
+    },
+    {
+        "id": 22,
+        "name": "EXP Gem+2",
+        "isHardMode": false
+    },
+    {
+        "id": 23,
+        "name": "EXP Gem+3",
+        "isHardMode": false
+    },
+    {
+        "id": 52,
+        "name": "EXP Gem+4",
+        "isHardMode": false
+    },
+    {
+        "id": 64,
+        "name": "Hero Gem",
+        "isHardMode": false
+    },
+    {
+        "id": 65,
+        "name": "Hero Gem+1",
+        "isHardMode": true
+    },
+    {
+        "id": 69,
+        "name": "Hero Gem+2",
+        "isHardMode": true
+    },
+    {
+        "id": 66,
+        "name": "God of War Gem",
+        "isHardMode": true
+    },
+    {
+        "id": 70,
+        "name": "Four Gods/Gem",
+        "isHardMode": false
+    },
+    {
+        "id": 71,
+        "name": "Four Gods/Gem +1",
+        "isHardMode": true
+    },
+    {
+        "id": 24,
+        "name": "Stat Point Crystal",
+        "isHardMode": false
+    },
+    {
+        "id": 55,
+        "name": "Stat Point Crystal+1",
+        "isHardMode": true
+    },
+    {
+        "id": 68,
+        "name": "Proof of the Hero",
+        "isHardMode": true
+    },
+    {
+        "id": 25,
+        "name": "Critical Rate Ring",
+        "isHardMode": false
+    },
+    {
+        "id": 26,
+        "name": "Critical Rate Ring+1",
+        "isHardMode": false
+    },
+    {
+        "id": 27,
+        "name": "First Critical Ring",
+        "isHardMode": false
+    },
+    {
+        "id": 56,
+        "name": "2 Critical Ring",
+        "isHardMode": true
+    },
+    {
+        "id": 57,
+        "name": "3 Critical Ring",
+        "isHardMode": true
+    },
+    {
+        "id": 28,
+        "name": "Combo Rate Ring",
+        "isHardMode": false
+    },
+    {
+        "id": 54,
+        "name": "Small Recovery Necklace",
+        "isHardMode": false
+    },
+    {
+        "id": 29,
+        "name": "Recovery Necklace",
+        "isHardMode": false
+    },
+    {
+        "id": 30,
+        "name": "Revival Necklace",
+        "isHardMode": false
+    },
+    {
+        "id": 58,
+        "name": "Revival Necklace+1",
+        "isHardMode": true
+    },
+    {
+        "id": 31,
+        "name": "Encounter Reduction Ring",
+        "isHardMode": false
+    },
+    {
+        "id": 32,
+        "name": "Encounter Increase Ring",
+        "isHardMode": false
+    },
+    {
+        "id": 33,
+        "name": "Instant Encounter Ring",
+        "isHardMode": false
+    },
+    {
+        "id": 34,
+        "name": "Movement Gem",
+        "isHardMode": false
+    },
+    {
+        "id": 35,
+        "name": "Movement Gem+1",
+        "isHardMode": false
+    },
+    {
+        "id": 36,
+        "name": "Battle Point Ring",
+        "isHardMode": false
+    },
+    {
+        "id": 37,
+        "name": "Battle Point Ring+1",
+        "isHardMode": false
+    },
+    {
+        "id": 38,
+        "name": "Battle Point Ring+2",
+        "isHardMode": false
+    },
+    {
+        "id": 53,
+        "name": "Battle Point Ring+3",
+        "isHardMode": false
+    }
+]
